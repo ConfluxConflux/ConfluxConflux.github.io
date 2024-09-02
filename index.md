@@ -9,7 +9,7 @@ excerpt: "Pupil of politics, purveyor of puzzles, podcaster of predictions — p
 
 # projects
 
-{% include button.html text="Puzzles for Progress: 360+ hand-crafted grid-logic and word puzzles of 100+ types" link="https://beautifulthorns.wixsite.com/home/post/is-69-unique" color="#800080" %}
+{% include button.html text="Puzzles for Progress: 360+ hand-crafted grid-logic and word puzzles of 100+ types" link="https://puzzlesforprogress.net" color="#800080" %}
 
 {% include button.html text="is 69 unique??? the search for nice numbers (mathematically)" link="https://beautifulthorns.wixsite.com/home/post/is-69-unique" color="#ff0000" %}
 
