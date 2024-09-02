@@ -26,4 +26,4 @@ Personal page in progress!
 
 "this quote was taken out of context" —[randall munroe](https://xkcd.com/1942/)
 
-"I've always been struck my jacob's immense winning wit and personal charm" —anonymous
+"I've always been struck by jacob's immense winning wit and personal charm" —anonymous
