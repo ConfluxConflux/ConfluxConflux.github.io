@@ -17,12 +17,12 @@ excerpt: "Pupil of politics, purveyor of puzzles, podcaster of predictions — p
 
 
 # testimonials
-"winning wit and personal charm" -anonymous
-
-"you're sort of a walking party trick" –[kailey hua, carnegie mellon university]
+"sort of a walking party trick" –kailey hua, carnegie mellon university
 
 "you look so stoic but then you say the silliest shit" -[sophia liao](sophialiao.com)
 
 "I would like to issue you an award for worst sound quality I have ever heard in a podcast, or any online audio recording really" -[isaac king](https://manifold.markets/Wobbles/will-anyone-create-a-podcast-center-dfeadcffc66a)
 
 "this quote was taken out of context" -[randall munroe](https://xkcd.com/1942/)
+
+"I've always been struck my jacob's immense winning wit and personal charm" -anonymous
