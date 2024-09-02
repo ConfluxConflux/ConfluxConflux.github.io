@@ -20,7 +20,7 @@ Personal page in progress!
 # testimonials
 "sort of a walking party trick" —kailey hua (carnegie mellon university)
 
-"you look so stoic but then you say the silliest shit" —[sophia liao](sophialiao.com)
+"you look so stoic but then you say the silliest shit" —[sophia liao](https://sophialiao.com)
 
 "I would like to issue you an award for worst sound quality I have ever heard in a podcast, or any online audio recording really" —[isaac king](https://manifold.markets/Wobbles/will-anyone-create-a-podcast-center-dfeadcffc66a)
 
