@@ -1,10 +1,10 @@
 ---
-title: About Alembic
+title: Jacob Meyer Cohen
 feature_text: |
   ## Alembic
-  A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
+  Pupil of politics, purveyor of puzzles, podcaster of predictions — previously. Personal page in progress.
 feature_image: "https://picsum.photos/1300/400?image=989"
-excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
+excerpt: "Pupil of politics, purveyor of puzzles, podcaster of predictions — previously. Personal website in progress."
 ---
 
 Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
