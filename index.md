@@ -1,6 +1,6 @@
 ---
 feature_text: |
-  ## Jacob Meyer Cohen
+  ## JACOB MEYER COHEN
   Pupil of politics, purveyor of puzzles, podcaster of predictions — previously. 
 feature_image: "https://i.postimg.cc/yxJgGSj6/etirabys-ohveiledandsecretpower.jpg"
 excerpt: "Pupil of politics, purveyor of puzzles, podcaster of predictions — previously. Personal website in progress."
