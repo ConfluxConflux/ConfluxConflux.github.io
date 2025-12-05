@@ -1,10 +1,18 @@
 ---
+feature_image: "https://i.postimg.cc/K8vP7Q35/Jacob-Site-Logo.png"
+excerpt: "Pupil of politics, purveyor of puzzles, podcaster of predictions — previously. Personal website in progress."
+---
+
+
+<!--> 
+---
 feature_text: |
   ## JACOB MEYER COHEN
   Pupil of politics, purveyor of puzzles, podcaster of predictions — previously. 
 feature_image: "https://i.postimg.cc/yxJgGSj6/etirabys-ohveiledandsecretpower.jpg"
 excerpt: "Pupil of politics, purveyor of puzzles, podcaster of predictions — previously. Personal website in progress."
 ---
+-->
 
 Personal page in progress!
 
